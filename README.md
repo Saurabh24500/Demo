@@ -13,3 +13,5 @@ In it i mad some projects lik:
 
 I want to made a website for my college student like where we can find material and notes and communicate with our seniors..
 I want to go more in Cyber Security.
+
+I think i need to concistance for this then i think i will done somthing in life ike as we see in anime like that much powerfull character they are also doing this not other things base thing is this practice and experiment.
