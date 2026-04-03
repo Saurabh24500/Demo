@@ -15,3 +15,5 @@ I want to made a website for my college student like where we can find material 
 I want to go more in Cyber Security.
 
 I think i need to concistance for this then i think i will done somthing in life ike as we see in anime like that much powerfull character they are also doing this not other things base thing is this practice and experiment.
+
+I think need to more focused and serious about my goals and situation then i got success.
