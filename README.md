@@ -19,3 +19,5 @@ I think i need to concistance for this then i think i will done somthing in life
 I think need to more focused and serious about my goals and situation then i got success.
 
 I need to make a more afficiant to do list to show all goal for week with graph improvement.
+
+Today I went to DAIICT for my hakathon.
