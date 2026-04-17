@@ -23,3 +23,7 @@ I need to make a more afficiant to do list to show all goal for week with graph 
 Today I went to DAIICT for my hakathon.
 
 I need a another projects related to now cyber security.
+1. Check image pdf mpr or mp3 or link has virus or malacius simply secure or not.
+2. password strength.
+3. Awareness blog page...
+4. method explain practically step after happened hacked.
