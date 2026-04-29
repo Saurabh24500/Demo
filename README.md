@@ -20,6 +20,8 @@ I think need to more focused and serious about my goals and situation then i got
 
 I need to make a more afficiant to do list to show all goal for week with graph improvement.
 
+I am just trying to fix this problems.
+
 Today I went to DAIICT for my hakathon.
 
 I need a another projects related to now cyber security.
