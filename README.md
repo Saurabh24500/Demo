@@ -30,3 +30,4 @@ I need a another projects related to now cyber security.
 3. Awareness blog page...
 4. method explain practically step after happened hacked.
 5. different method knoledge for hack technique. 
+6. website help junior student and blog chat material pyq and all..
