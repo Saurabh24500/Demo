@@ -36,7 +36,7 @@ I need a another projects related to now cyber security.
 3. Awareness blog page...
 4. method explain practically step after happened hacked.
 5. different method knoledge for hack technique. 
-6. website help junior student and blog chat material pyq and all..
+6. website help junior student and blog chat material pyq and all...
 7. eye focus detector for reading.
 8. hand gestures famous method but make game like use shape and make it like take track make and run car
 9. event listed website like gdg and all hackathon events details google all events and Amazon also
