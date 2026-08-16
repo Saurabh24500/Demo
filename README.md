@@ -32,13 +32,23 @@ Today I went to DAIICT for my hakathon.
 
 I need a another projects related to now cyber security.
 1. Check image pdf mpr or mp3 or link has virus or malacius simply secure or not.
+
 2. password strength.
+
 3. Awareness blog page...
+
 4. method explain practically step after happened hacked.
+
 5. different method knoledge for hack technique. 
+
 6. website help junior student and blog chat material pyq and all...
+
 7. eye focus detector for reading.
+
 8. hand gestures famous method but make game like use shape and make it like take track make and run car
+
 9. event listed website like gdg and all hackathon events details google all events and Amazon also
+
 10 notebook dairy daily life though and experience and all give its summary and chat bot to know anything from it so we don't need to remember anyone's name or other details we take from there and all.
+
 11. make a full workable website and real use like data store fetch payment and all other...
