@@ -41,3 +41,4 @@ I need a another projects related to now cyber security.
 8. hand gestures famous method but make game like use shape and make it like take track make and run car
 9. event listed website like gdg and all hackathon events details google all events and Amazon also
 10 notebook dairy daily life though and experience and all give its summary and chat bot to know anything from it so we don't need to remember anyone's name or other details we take from there and all.
+11. make a full workable website and real use like data store fetch payment and all other...
